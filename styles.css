@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+}
+
+h1 {
+    background-color: red;
+    text-align: center;
+    color: white;
+    padding: 1rem;
+}
